@@ -1,5 +1,6 @@
 # Practice
-practice git on Intellij
+practice git on IntelliJ
 This is the README file 
--provides overview of the project (i.e. its purpose and usage)
-
+-making a change
+-making another change
+-making a third change whoa
